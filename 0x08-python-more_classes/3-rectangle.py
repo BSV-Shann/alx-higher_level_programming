@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """class that defines a rectangle"""
 
 
@@ -67,4 +66,3 @@ class Rectangle:
             if column < self.__height - 1:
                 rectangle += "\n"
         return (rectangle)
-
